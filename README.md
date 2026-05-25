@@ -10,8 +10,11 @@ As principais ferramentas e linguagens que usei para construir este projeto:
 - JavaScript
 - CSS
 
+## 🚀 Como rodar este projeto no seu computador
+Se você quiser testar o jogo, clique aqui: https://jogodaalura.vercel.app/
+
 ## 👨‍💻 Autor
-![Esse sou eu](<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c18d11fa-c1c3-4ccd-866c-64d00b8bfde3" />
+![Esse sou eu](<img width="1688" height="1608" alt="Gemini_Generated_Image_vsb3f5vsb3f5vsb3" src="https://github.com/user-attachments/assets/8a2db67f-c14d-4b6d-b8f6-57a1a82a043e" />
 )
 Criado por **Diego**.
 
