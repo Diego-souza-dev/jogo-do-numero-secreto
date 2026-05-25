@@ -14,7 +14,7 @@ As principais ferramentas e linguagens que usei para construir este projeto:
 Se você quiser testar o jogo, clique aqui: https://jogodaalura.vercel.app/
 
 ## 👨‍💻 Autor
-![Esse sou eu](<img width="1688" height="1608" alt="Gemini_Generated_Image_vsb3f5vsb3f5vsb3" src="https://github.com/user-attachments/assets/8a2db67f-c14d-4b6d-b8f6-57a1a82a043e" />
+![Esse sou eu](https://github.com/user-attachments/assets/8a2db67f-c14d-4b6d-b8f6-57a1a82a043e)
 )
 Criado por **Diego**.
 
