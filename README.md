@@ -14,8 +14,7 @@ As principais ferramentas e linguagens que usei para construir este projeto:
 Se você quiser testar o jogo, clique aqui: https://jogodaalura.vercel.app/
 
 ## 👨‍💻 Autor
-![Esse sou eu](https://github.com/user-attachments/assets/8a2db67f-c14d-4b6d-b8f6-57a1a82a043e)
-)
+<img width="1688" height="1608" alt="Esse sou eu" src="https://github.com/user-attachments/assets/8a2db67f-c14d-4b6d-b8f6-57a1a82a043e" />
 Criado por **Diego**.
 
 - LinkedIn: [https://www.linkedin.com/in/diego-souza-devsp/]
